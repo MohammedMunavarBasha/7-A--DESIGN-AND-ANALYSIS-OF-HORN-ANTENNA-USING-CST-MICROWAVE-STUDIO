@@ -12,7 +12,7 @@ L=a
 ^2/8 δ  
 2 tan-1a
 2L
-
+.
 where, θ= flare angle (θ E for E plane, θ H for H plane).a= aperture (a E for E plane, a H for H plane)
 L=horn length
 
